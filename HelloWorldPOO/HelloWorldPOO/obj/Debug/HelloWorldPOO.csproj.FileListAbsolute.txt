@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\HelloWorldPOO\HelloWorldPOO\bin\Debug\HelloWorldPOO.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\HelloWorldPOO\HelloWorldPOO\bin\Debug\HelloWorldPOO.exe
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\HelloWorldPOO\HelloWorldPOO\bin\Debug\HelloWorldPOO.pdb
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\HelloWorldPOO\HelloWorldPOO\obj\Debug\HelloWorldPOO.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\HelloWorldPOO\HelloWorldPOO\obj\Debug\HelloWorldPOO.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\HelloWorldPOO\HelloWorldPOO\obj\Debug\HelloWorldPOO.exe
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\HelloWorldPOO\HelloWorldPOO\obj\Debug\HelloWorldPOO.pdb

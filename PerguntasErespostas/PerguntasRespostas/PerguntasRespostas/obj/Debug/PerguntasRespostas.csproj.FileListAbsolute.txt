@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Área de Trabalho\POO-Csharp\PerguntasErespostas\PerguntasRespostas\PerguntasRespostas\bin\Debug\PerguntasRespostas.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\POO-Csharp\PerguntasErespostas\PerguntasRespostas\PerguntasRespostas\bin\Debug\PerguntasRespostas.exe
+C:\Users\david\OneDrive\Área de Trabalho\POO-Csharp\PerguntasErespostas\PerguntasRespostas\PerguntasRespostas\bin\Debug\PerguntasRespostas.pdb
+C:\Users\david\OneDrive\Área de Trabalho\POO-Csharp\PerguntasErespostas\PerguntasRespostas\PerguntasRespostas\obj\Debug\PerguntasRespostas.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\POO-Csharp\PerguntasErespostas\PerguntasRespostas\PerguntasRespostas\obj\Debug\PerguntasRespostas.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\POO-Csharp\PerguntasErespostas\PerguntasRespostas\PerguntasRespostas\obj\Debug\PerguntasRespostas.exe
+C:\Users\david\OneDrive\Área de Trabalho\POO-Csharp\PerguntasErespostas\PerguntasRespostas\PerguntasRespostas\obj\Debug\PerguntasRespostas.pdb

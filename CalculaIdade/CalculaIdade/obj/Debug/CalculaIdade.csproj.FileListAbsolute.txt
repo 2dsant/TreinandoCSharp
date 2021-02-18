@@ -1,0 +1,7 @@
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\CalculaIdade\CalculaIdade\bin\Debug\CalculaIdade.exe.config
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\CalculaIdade\CalculaIdade\bin\Debug\CalculaIdade.exe
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\CalculaIdade\CalculaIdade\bin\Debug\CalculaIdade.pdb
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\CalculaIdade\CalculaIdade\obj\Debug\CalculaIdade.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\CalculaIdade\CalculaIdade\obj\Debug\CalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\CalculaIdade\CalculaIdade\obj\Debug\CalculaIdade.exe
+C:\Users\david\OneDrive\Área de Trabalho\POO - C#\CalculaIdade\CalculaIdade\obj\Debug\CalculaIdade.pdb

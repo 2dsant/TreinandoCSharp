@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\AtividadeCalculaIdade\AtividadeCalculaIdade\bin\Debug\AtividadeCalculaIdade.exe.config
+C:\Users\david\source\repos\AtividadeCalculaIdade\AtividadeCalculaIdade\bin\Debug\AtividadeCalculaIdade.exe
+C:\Users\david\source\repos\AtividadeCalculaIdade\AtividadeCalculaIdade\bin\Debug\AtividadeCalculaIdade.pdb
+C:\Users\david\source\repos\AtividadeCalculaIdade\AtividadeCalculaIdade\obj\Debug\AtividadeCalculaIdade.csprojAssemblyReference.cache
+C:\Users\david\source\repos\AtividadeCalculaIdade\AtividadeCalculaIdade\obj\Debug\AtividadeCalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\AtividadeCalculaIdade\AtividadeCalculaIdade\obj\Debug\AtividadeCalculaIdade.exe
+C:\Users\david\source\repos\AtividadeCalculaIdade\AtividadeCalculaIdade\obj\Debug\AtividadeCalculaIdade.pdb
