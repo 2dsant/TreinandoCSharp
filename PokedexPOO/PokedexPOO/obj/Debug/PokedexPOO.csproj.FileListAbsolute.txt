@@ -1,7 +1,0 @@
-C:\Users\david\OneDrive\Área de Trabalho\POO - C#\Pokedex\Pokedex\obj\Debug\PokedexPOO.csprojAssemblyReference.cache
-C:\Users\david\OneDrive\Área de Trabalho\POO - C#\Pokedex\Pokedex\obj\Debug\PokedexPOO.csproj.CoreCompileInputs.cache
-C:\Users\david\OneDrive\Área de Trabalho\POO - C#\Pokedex\Pokedex\obj\Debug\Pokedex.exe
-C:\Users\david\OneDrive\Área de Trabalho\POO - C#\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
-C:\Users\david\OneDrive\Área de Trabalho\POO - C#\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
-C:\Users\david\OneDrive\Área de Trabalho\POO - C#\Pokedex\Pokedex\bin\Debug\Pokedex.exe
-C:\Users\david\OneDrive\Área de Trabalho\POO - C#\Pokedex\Pokedex\bin\Debug\Pokedex.pdb

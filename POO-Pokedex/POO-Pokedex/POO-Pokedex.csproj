@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FD886584-C9ED-44C7-A07F-355E5C24B4AB}</ProjectGuid>
+    <ProjectGuid>{59E648CA-DD66-47A5-A057-822B6C0FF5BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PerguntasRespostas</RootNamespace>
-    <AssemblyName>PerguntasRespostas</AssemblyName>
+    <RootNamespace>POO_Pokedex</RootNamespace>
+    <AssemblyName>POO-Pokedex</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pergunta.cs" />
-    <Compile Include="PerguntaPlus.cs" />
+    <Compile Include="Pokedex.cs" />
+    <Compile Include="Pokemon.cs" />
+    <Compile Include="PokemonPlus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
